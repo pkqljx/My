@@ -147,6 +147,4 @@ public class ShoppingDetailActivity extends AppCompatActivity implements View.On
         }
         return true;
     }
-
 }
-

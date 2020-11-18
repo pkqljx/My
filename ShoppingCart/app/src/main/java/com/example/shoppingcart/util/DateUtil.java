@@ -1,7 +1,6 @@
 package com.example.shoppingcart.util;
 
 import android.annotation.SuppressLint;
-import android.annotation.SuppressLint;
 import android.text.TextUtils;
 
 import java.text.SimpleDateFormat;

@@ -29,32 +29,32 @@ public class GoodsInfo {
 
     // 声明一个手机商品的名称数组
     private static String[] mNameArray = {
-            "小风车", "胡萝卜", "小猫", "兔叽", "小恐龙", "小兔几", "小王子","猪猪"
+            "风车", "胡萝卜", "猫猫", "兔叽", "小恐龙", "小兔几","小王子","猪猪"
     };
     // 声明一个手机商品的描述数组
     private static String[] mDescArray = {
-            "小风车胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针",
-            "胡萝卜胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针",
-            "小猫胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针",
-            "兔叽胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针",
-            "小恐龙胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针",
-            "小兔几胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针",
-            "小王子胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针",
-            "猪猪胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针",
+            "胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针风车",
+            "胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针胡萝卜",
+            "胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针猫猫",
+            "胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针兔叽",
+            "胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针小恐龙",
+            "胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针小兔几",
+            "胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针小王子",
+            "胸针女日系可爱防走光别针ins潮胸花配饰书包徽章卡通学生刺马针猪猪"
     };
     // 声明一个手机商品的价格数组
-    private static float[] mPriceArray = {8, 9, 2, 5, 8, 8,4,5};
+    private static float[] mPriceArray = {30, 10, 29, 50, 8,30,40,10};
     // 声明一个手机商品的小图数组
     private static int[] mThumbArray = {
-            R.drawable.fengche_s, R.drawable.huluobo_s, R.drawable.maomao_s,
-            R.drawable.tuji_s, R.drawable.xiaokonglong_s, R.drawable.xioatuji_s,
-            R.drawable.xioawangzi_s,R.drawable.zhuzhu_s
+            R.drawable.a001_s, R.drawable.a002_s, R.drawable.a003_s,
+            R.drawable.a004_s, R.drawable.a005_s, R.drawable.a006_s,
+            R.drawable.a007_s, R.drawable.a008_s
     };
     // 声明一个手机商品的大图数组
     private static int[] mPicArray = {
-            R.drawable.fengche, R.drawable.huluobo, R.drawable.maomao,
-            R.drawable.tuji, R.drawable.xiaokonglong, R.drawable.xioatuji,
-            R.drawable.xioawangzi,R.drawable.zhuzhu
+            R.drawable.a001, R.drawable.a002, R.drawable.a003,
+            R.drawable.a004, R.drawable.a005, R.drawable.a006,
+            R.drawable.a007, R.drawable.a008
     };
 
     // 获取默认的手机信息列表
