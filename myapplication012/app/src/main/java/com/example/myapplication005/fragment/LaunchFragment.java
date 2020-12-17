@@ -16,6 +16,7 @@ import android.widget.RadioGroup;
 import androidx.fragment.app.Fragment;
 
 import com.example.myapplication005.R;
+import com.example.myapplication005.activity.MainActivity;
 import com.example.myapplication005.activity.ShoppingChannelActivity;
 
 
@@ -68,7 +69,7 @@ public class LaunchFragment extends Fragment {
             btn_start.setOnClickListener(new OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    Intent intent = new Intent(getActivity(), ShoppingChannelActivity.class);
+                    Intent intent = new Intent(getActivity(), MainActivity.class);
                     startActivity(intent);
                 }
             });

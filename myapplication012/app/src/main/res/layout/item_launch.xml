@@ -37,7 +37,7 @@
         android:layout_marginLeft="80dp"
         android:layout_marginEnd="80dp"
         android:layout_marginRight="80dp"
-        android:text="进入芈诗雨的商城"
+        android:text="进入李佳欣的商城"
         android:textSize="22sp"
         android:visibility="gone"
         app:layout_constraintBottom_toBottomOf="parent"

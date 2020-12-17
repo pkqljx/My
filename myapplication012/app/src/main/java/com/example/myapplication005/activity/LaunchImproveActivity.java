@@ -10,8 +10,8 @@ import com.example.myapplication005.adapter.LaunchImproveAdapter;
 
 public class LaunchImproveActivity extends AppCompatActivity {
     // 声明引导页面的图片数组
-    private int[] lanuchImageArray = {R.drawable.a001,
-            R.drawable.a002, R.drawable.a003, R.drawable.a004, R.drawable.a005};
+    private int[] lanuchImageArray = {R.mipmap.guide_1,
+            R.mipmap.guide_2, R.mipmap.guide_3, R.mipmap.guide_2, R.mipmap.guide_1};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
